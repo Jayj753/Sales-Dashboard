@@ -34,7 +34,7 @@ Sales Data: The primary dataset used for this analysis is the "Theo Anderson sto
 ### Data Cleaning and Preparation 
 
 1. The dataset was already clean and free from missing or inconsistent values.
-2. Data Preparation involved using Excels's Sort and Filter functions to isolate relevant records required for the analysis.
+2. Data Preparation involved using Excels's **Sort** and **Filter** functions to isolate relevant records required for the analysis.
 3. The data was organized and structured to improve readability and ensure it was analysis-ready.
 
 ### Exploratory Data Analysis
@@ -53,9 +53,9 @@ EDA involved exploring the sales data to answer key questions, such as
 ### Results and Findings
 
 The analysis results are summarized as follows:
-1.Weekend operations are not profitable for most superstores.
-2.Weekend sales are significantly lower, and total profit generated is not sustainable in the long term.
-3.Weekday profits are more than double weekend profits, showing that the business generates much higher returns during weekdays.
+1. Weekend operations are not profitable for most superstores.
+2. Weekend sales are significantly lower, and total profit generated is not sustainable in the long term.
+3. Weekday profits are more than double weekend profits, showing that the business generates much higher returns during weekdays.
 
 ### Recommendations
 
