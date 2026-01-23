@@ -40,7 +40,7 @@ EDA involved exploring the sales data to answer key questions, such as
 - The total sales and profit of the business on weekdays?
 
 
-### -[Exploratory Data Analysis](#exploratory-data-analysis)
+### Data Analysis
 
 - Data Analysis was performed in Excel using formulas and functions such as SUM, AVERAGE, COUNT, etc to compute key metrics.
 - PivotTables were used to summarize the data, identify patterns, and compare values across categories.
