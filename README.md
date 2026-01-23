@@ -15,6 +15,8 @@
 
 ### Project Overview
 
+---
+
 This data analysis project aims to provide insights into the sales growth peformamce of a store overtime. By analyzing various aspects of the sales data,we seek to identify trends, make data driven recomendations, and gain a deeper understanding of the store's performance.
 
 <img width="1897" height="1024" alt="Screenshot 2026-01-23 223105" src="https://github.com/user-attachments/assets/77bce70e-5cbe-4362-95e6-aeabc5af52f8" />
